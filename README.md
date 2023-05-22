@@ -1,1 +1,1 @@
-# CutsceneTrigger
+In this tutorial, we will learn how to trigger a timeline as needed, not just at the start of the game. We will use a trigger collider to play the timeline.
